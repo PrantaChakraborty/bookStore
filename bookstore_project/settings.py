@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # local
     'users.apps.UsersConfig',
     'pages.apps.PagesConfig',
+    'books.apps.BooksConfig',
 ]
 
 MIDDLEWARE = [
@@ -63,7 +64,7 @@ ROOT_URLCONF = 'bookstore_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'pages', 'templates')],
+        'DIRS': [os.path.join(BASE_DIR,  'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -159,4 +160,4 @@ ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_UNIQUE_EMAIL = True
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-DEFAULT_FROM_EMAIL = 'admin@prantaDjango.com'
+DEFAULT_FROM_EMAIL = 'admin@PranBookStore.com'
