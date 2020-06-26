@@ -3,10 +3,10 @@
 {% block title %}Home{% endblock title %}
 {% block content %}
     <h1>Homepage</h1>
-    <img class="bookcover" src="{% static 'images/second image.jpg' %}">
+
     {% if user.is_authenticated %}
         hi {{ user.email }}
-        <p><a href="{% url 'account_logout' %}">Log Out</a></p>
+
 
     {% else %}
         <p> You're not logged in</p>

@@ -159,7 +159,9 @@ ACCOUNT_USERNAME_REQUIRED = False
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_UNIQUE_EMAIL = True
-
+# console backend is used for running on lcalhost
+# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# the smtp backend will work on net.
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 DEFAULT_FROM_EMAIL = 'admin@PrantaBookStore.com'
 
