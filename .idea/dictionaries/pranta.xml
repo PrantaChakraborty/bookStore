@@ -3,6 +3,7 @@
     <words>
       <w>allauth</w>
       <w>socialaccount</w>
+      <w>whitenoise</w>
     </words>
   </dictionary>
 </component>
