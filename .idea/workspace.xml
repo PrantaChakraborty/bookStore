@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa36e7b9-bcf6-4eb0-89fa-b31d4b584e18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/pranta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/pranta.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
           <entry key="css" value="58" />
           <entry key="html" value="2495" />
           <entry key="js" value="30" />
-          <entry key="py" value="10690" />
+          <entry key="py" value="10700" />
           <entry key="txt" value="65" />
           <entry key="yml" value="611" />
         </counts>
@@ -66,7 +66,7 @@
           <entry key="HTML" value="2495" />
           <entry key="JavaScript" value="30" />
           <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="10690" />
+          <entry key="Python" value="10700" />
           <entry key="YAML" value="611" />
         </counts>
       </usages-collector>
@@ -114,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookstore_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3387">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="33">
+              <caret line="200" column="27" lean-forward="true" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
               <folding>
                 <element signature="e#318#327#0" expanded="true" />
               </folding>
@@ -691,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookstore_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3387">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="33">
+          <caret line="200" column="27" lean-forward="true" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
           <folding>
             <element signature="e#318#327#0" expanded="true" />
           </folding>

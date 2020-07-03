@@ -2,6 +2,7 @@
   <dictionary name="pranta">
     <words>
       <w>allauth</w>
+      <w>nosniff</w>
       <w>nostatic</w>
       <w>socialaccount</w>
       <w>whitenoise</w>
