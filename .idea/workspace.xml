@@ -56,7 +56,7 @@
           <entry key="css" value="58" />
           <entry key="html" value="2495" />
           <entry key="js" value="30" />
-          <entry key="py" value="10708" />
+          <entry key="py" value="10710" />
           <entry key="txt" value="65" />
           <entry key="yml" value="611" />
         </counts>
@@ -67,7 +67,7 @@
           <entry key="HTML" value="2495" />
           <entry key="JavaScript" value="30" />
           <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="10708" />
+          <entry key="Python" value="10710" />
           <entry key="YAML" value="611" />
         </counts>
       </usages-collector>
@@ -115,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookstore_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="173" column="34" selection-start-line="173" selection-start-column="34" selection-end-line="173" selection-end-column="34" />
+            <state relative-caret-position="159">
+              <caret line="175" column="92" selection-start-line="175" selection-start-column="92" selection-end-line="175" selection-end-column="92" />
               <folding>
                 <element signature="e#318#327#0" expanded="true" />
               </folding>
@@ -261,7 +261,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -402,7 +402,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294509" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.26950353" side_tool="true" weight="0.44592345" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.73049647" weight="0.34276205" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.73049647" visible="true" weight="0.34276205" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3294509" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -720,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookstore_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="173" column="34" selection-start-line="173" selection-start-column="34" selection-end-line="173" selection-end-column="34" />
+        <state relative-caret-position="159">
+          <caret line="175" column="92" selection-start-line="175" selection-start-column="92" selection-end-line="175" selection-end-column="92" />
           <folding>
             <element signature="e#318#327#0" expanded="true" />
           </folding>

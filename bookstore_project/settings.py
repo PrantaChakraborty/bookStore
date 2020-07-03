@@ -171,6 +171,11 @@ ACCOUNT_UNIQUE_EMAIL = True
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 # the smtp backend will work on net.
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIL_HOST_USER = 'apikey' # this is exactly the value 'apikey'
+EMAIL_HOST_PASSWORD = 'SG.VEu4KggKSQ2HuHiHq2RMSg.n77celvjR7qzq0Lt5ILg1B4XK0n2f8c4xREh7W775A'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'admin@pranta.com'
 
 # for media
