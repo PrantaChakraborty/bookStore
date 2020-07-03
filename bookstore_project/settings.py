@@ -171,7 +171,7 @@ ACCOUNT_UNIQUE_EMAIL = True
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 # the smtp backend will work on net.
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-DEFAULT_FROM_EMAIL = 'admin@PrantaBookStore.com'
+DEFAULT_FROM_EMAIL = 'admin@pranta.com'
 
 # for media
 MEDIA_URL = '/media/'
