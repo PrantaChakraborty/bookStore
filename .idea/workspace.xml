@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa36e7b9-bcf6-4eb0-89fa-b31d4b584e18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookstore_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore_project/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +55,7 @@
           <entry key="css" value="58" />
           <entry key="html" value="2495" />
           <entry key="js" value="30" />
-          <entry key="py" value="10710" />
+          <entry key="py" value="10719" />
           <entry key="txt" value="65" />
           <entry key="yml" value="611" />
         </counts>
@@ -67,7 +66,7 @@
           <entry key="HTML" value="2495" />
           <entry key="JavaScript" value="30" />
           <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="10710" />
+          <entry key="Python" value="10719" />
           <entry key="YAML" value="611" />
         </counts>
       </usages-collector>
