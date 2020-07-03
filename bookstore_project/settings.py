@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = int(os.environ.get('DEBUG', default=0))
 
-ALLOWED_HOSTS = ['obscure-temple-91307.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['still-everglades-36806.herokuapp.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
@@ -65,7 +65,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    #'debug_toolbar.middleware.DebugToolbarMiddleware', # debug toolbar
+    # 'debug_toolbar.middleware.DebugToolbarMiddleware', # debug toolbar
 ]
 
 ROOT_URLCONF = 'bookstore_project.urls'
